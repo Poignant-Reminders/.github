@@ -2,4 +2,4 @@
 
 This is the description for the public github repository for Poignant Reminders.
 
-![Banner](.git/pr)
+![Banner](profile/Assets/Banner.png)
